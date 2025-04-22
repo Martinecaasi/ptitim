@@ -137,7 +137,6 @@ font-size: larger;
 
 #footer {
   background-color: transparent;
-  padding: 40px 0px;
 }
 
 #footer .wrapper {
@@ -455,7 +454,7 @@ font-size: larger;
   }
 
   .nav-right li {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .logo-title {
@@ -476,6 +475,7 @@ font-size: larger;
     max-width: 100%;
     text-align: center;
     padding: 0 10px;
+
   }
 
   .hero-text h1 {
@@ -484,7 +484,7 @@ font-size: larger;
   }
 
   .hero-text p {
-    font-size: 16px;
+    font-size: 25px;
     color: #333;
   }
 
@@ -497,11 +497,11 @@ font-size: larger;
 
 
   #AboutSection {
-    font-size: 16px;
+    font-size: 20px;
   }
 
   #AboutSection h2 {
-    font-size: 28px;
+    font-size: 30px;
   }
 
   .footer-columns {
@@ -521,6 +521,7 @@ font-size: larger;
 
   .footer-bottom {
     text-align: center;
+    padding-bottom: 0;
   }
 
   .card-container {
